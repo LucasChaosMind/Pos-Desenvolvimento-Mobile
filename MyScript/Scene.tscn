@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=3 uid="uid://b41x6svpwcw1f"]
+
+[ext_resource type="PackedScene" uid="uid://c4e3m5q2rfre8" path="res://MySprite_2d.tscn" id="1_ow0ox"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+
+[node name="Sprite2D2" parent="." instance=ExtResource("1_ow0ox")]
+position = Vector2(241, 306)
+
+[node name="Sprite2D3" parent="." instance=ExtResource("1_ow0ox")]
+position = Vector2(577, 305)
+
+[node name="Sprite2D4" parent="." instance=ExtResource("1_ow0ox")]
+position = Vector2(913, 297)

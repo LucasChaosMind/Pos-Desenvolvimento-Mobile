@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://wbt27cjnyty8"]
+
+[node name="Label" type="Label"]
+offset_left = 552.0
+offset_top = 319.0
+offset_right = 687.0
+offset_bottom = 342.0
+text = "New Game Bro =)"
+horizontal_alignment = 1
+vertical_alignment = 1
