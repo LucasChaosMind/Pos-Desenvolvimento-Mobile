@@ -1,2 +1,2 @@
 # Pos-Desenvolvimento-Mobile
-Materia da Pós de Desenvolvimento de Games Mobile
+Disciplina de Desenvolvimento de Jogos da Pós de Desenvolvimento Mobile
